@@ -1,0 +1,16 @@
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+    background-color:  #FFEFD5;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #800080;
+}
+
+#result{
+    margin-left: 700px;
+}
